@@ -1,0 +1,46 @@
+{
+  "event": [
+    {
+      "id": 1
+    },
+    {
+      "id": 2
+    },
+    {
+      "id": 3
+    },
+    {
+      "eventName": "akandekar36@gmail.com",
+      "eventDescription": "fefewf",
+      "eventStartdate": "2021-07-07T07:00:00.000Z",
+      "eventEnddate": "2021-07-08T07:00:00.000Z",
+      "eventArea": "Auditorium",
+      "eventLogo": "",
+      "eventLanguage": "Arabic",
+      "eventIntrovideoLink": "",
+      "id": 4
+    },
+    {
+      "eventName": "akandekar36@gmail.com",
+      "eventDescription": null,
+      "eventStartdate": "2021-07-05T07:00:00.000Z",
+      "eventEnddate": "2021-07-23T07:00:00.000Z",
+      "eventArea": "Auditorium",
+      "eventLogo": {},
+      "eventLanguage": "Arabic",
+      "eventIntrovideoLink": null,
+      "id": 5
+    },
+    {
+      "eventName": "adkcbdsc",
+      "eventDescription": "sdfvsd",
+      "eventStartdate": "2021-07-07T07:00:00.000Z",
+      "eventEnddate": "2021-07-12T07:00:00.000Z",
+      "eventArea": "Auditorium",
+      "eventLogo": "",
+      "eventLanguage": "Arabic",
+      "eventIntrovideoLink": "",
+      "id": 6
+    }
+  ]
+}
